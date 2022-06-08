@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE ListaVentas SYSTEM "ListaVentas.dtd">
+
+<ListaVentas>
+    <Venta>
+        <Importe>132.000</Importe>
+        <Comprador>Jose</Comprador>
+        <Vendedor>Pablo</Vendedor>
+        <Fecha>30/01/2020</Fecha>
+        <CodigoFactura>123</CodigoFactura>
+    </Venta>
+    <Venta>
+        <Importe>26.000</Importe>
+        <Comprador>Maria</Comprador>
+        <Vendedor>Pedro</Vendedor>
+        <Fecha>21/05/2021</Fecha>
+        <CodigoFactura>125</CodigoFactura>
+    </Venta>
+    <Venta>
+        <Importe>4.000</Importe>
+        <Comprador>Carlos</Comprador>
+        <Vendedor>Pablo</Vendedor>
+        <Fecha>12/11/2020</Fecha>
+        <CodigoFactura>128</CodigoFactura>
+    </Venta>
+</ListaVentas>
